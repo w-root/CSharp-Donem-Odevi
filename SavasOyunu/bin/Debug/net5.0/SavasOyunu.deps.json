@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SavasOyunu/1.0.0": {
+        "runtime": {
+          "SavasOyunu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SavasOyunu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

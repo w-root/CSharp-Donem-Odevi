@@ -1,0 +1,16 @@
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.csproj.AssemblyReference.cache
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.AssemblyInfoInputs.cache
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.AssemblyInfo.cs
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.csproj.CoreCompileInputs.cache
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.exe
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.deps.json
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.runtimeconfig.json
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.runtimeconfig.dev.json
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.dll
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\ref\SavasOyunu.dll
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\bin\Debug\net5.0\SavasOyunu.pdb
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.dll
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\ref\SavasOyunu.dll
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.pdb
+C:\Users\f_b_e\source\repos\SavasOyunu\SavasOyunu\obj\Debug\net5.0\SavasOyunu.genruntimeconfig.cache
